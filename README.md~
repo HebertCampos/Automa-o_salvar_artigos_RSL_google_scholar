@@ -1,1 +1,12 @@
-# Automa-o_salvar_artigos_RSL_google_scholar
+# Automação para salvar artigos do Google Scholar para pasta_rsl
+
+## O que faz o codigo?
+A intenção é fazer a seleção dos artigos do Google Scholar automaticamente para uma RSL. Mas para isso a string de busca já deve esta pronta.
+
+Após executar sua RSL na busca, basta rodar o codigo e deixar a pagina aberta de preferencia numa proporção que apareça toda a pagina (recomendado 50%)
+
+## Problemas que podem ocorrer:
+
+- Pode ser que as imagens já sepadas neste codigo esteja diferente da pagina, por motivos de tradução. Nesse caso é recomendado que tire novos prints de cada imagem e salvar por cima das já existentes
+- Pode ocorrer que o javaScript acabe descobrindo que um robo esteja sendo usado e começe a bloquear. Nesse caso, pare o codigo, salve a URL atual e abra novamente usando a URL copiada e rode novamente o codigo
+
